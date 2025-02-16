@@ -1,0 +1,16 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# SQLite database file (if used)
+expenses.db
+*.sqlite3
+
+# Virtual environment
+venv/
+env/
+
+# Log files
+*.log
